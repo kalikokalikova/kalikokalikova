@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello world!
+#### I am looking to collaborate on open source projects with a social justice impact.
+---
+<img src="https://media.giphy.com/media/c5zJ8LX6fTq3C/giphy.gif" style="width:400px"></img>
 
-<!--
-**kalikokalikova/kalikokalikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a full stack developer, currently working with [Clearviction](https://www.clearviction.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning react.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Had a blast at the *recently attended*:
+- [DemocracyLab Hackathon](https://www.democracylab.org/)
+
+Super stoked to attend *upcoming events*:
+- [Seattle Gnu/Linux Conference](https://seagl.org/)
+- [GDI Hackathon](https://girldevelopit.com/virtual-hackathon/)
+
