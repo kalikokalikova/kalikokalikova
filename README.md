@@ -1,7 +1,9 @@
 ### Hello world!
 #### I am looking to collaborate on open source projects with a political or social justice impact.
 ---
-<img src="https://media.giphy.com/media/c5zJ8LX6fTq3C/giphy.gif" style="width:400px"></img>
+<p align="center">
+  <img src="https://media.giphy.com/media/c5zJ8LX6fTq3C/giphy.gif" style="width:400px"></img>
+ </p>
 
 I'm a full stack developer, currently working with [Clearviction](https://www.clearviction.org).
 
@@ -30,5 +32,5 @@ Super stoked to attend *upcoming events*:
 - [Seattle Gnu/Linux Conference](https://seagl.org/)
 - [GDI Hackathon](https://girldevelopit.com/virtual-hackathon/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalikokalikova)](https://github.com/alikokalikova/github-readme-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
