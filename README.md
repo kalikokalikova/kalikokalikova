@@ -1,5 +1,5 @@
 ### Hello world!
-#### I am looking to collaborate on open source projects with a political or social justice impact.
+#### I am looking to collaborate on open source projects with a political, social justice, or climate impact.
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/c5zJ8LX6fTq3C/giphy.gif" style="width:400px"></img>
