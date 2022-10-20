@@ -6,7 +6,7 @@
  </p>
 
 I'm a full stack developer, currently working with [Clearviction](https://www.clearviction.org).<br>
-Likes: ☕ coffee, 🐦 bird-watching, and being slightly damp at all times. 💦 (Very typical PNW person.)<br>
+Likes: ☕ coffee, 🐦 bird-watching, science podcasts, and being slightly damp at all times. 💦 (Very typical PNW person.)<br>
 Education: Self-taught hacker with degrees in Linguistics and Law.<br>
 Favorite programming language: 🐍 python<br>
 Currently learning: React<br>
