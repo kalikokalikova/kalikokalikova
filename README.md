@@ -5,7 +5,12 @@
   <img src="https://media.giphy.com/media/c5zJ8LX6fTq3C/giphy.gif" style="width:400px"></img>
  </p>
 
-I'm a full stack developer, currently working with [Clearviction](https://www.clearviction.org).
+I'm a full stack developer, currently working with [Clearviction](https://www.clearviction.org).<br>
+Likes: ☕ coffee, 🐦 bird-watching, and being slightly damp at all times. 💦 (Very typical PNW person.)<br>
+Education: Self-taught hacker with degrees in Linguistics and Law.<br>
+Favorite programming language: 🐍 python<br>
+Currently learning: React<br>
+Not confident about: 🚲 Riding a bicycle.<br>
 
 Learning:<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
