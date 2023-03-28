@@ -5,15 +5,14 @@
   <img src="https://media.giphy.com/media/c5zJ8LX6fTq3C/giphy.gif" style="width:400px"></img>
  </p>
 
-I'm a full stack developer, currently working with [Clearviction](https://www.clearviction.org).<br>
-Likes: ☕ coffee, 🐦 bird-watching, science podcasts, and being slightly damp at all times. 💦 (Very typical PNW person.)<br>
+I'm a full stack developer, currently working on a rails/react stack.<br>
+Likes: ☕ coffee, 🐦 bird-watching, science podcasts, and living in a humid but temperate zone. 💦<br>
 Education: Self-taught hacker with degrees in Linguistics and Law.<br>
 Favorite programming language: 🐍 python<br>
-Currently learning: React<br>
+Currently learning: React Native<br>
 Not confident about: 🚲 Riding a bicycle.<br>
 
 Learning:<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 Experienced in:<br>
@@ -29,13 +28,14 @@ Experienced in:<br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 Had a blast at the *recently attended*:
 - [DemocracyLab Hackathon](https://www.democracylab.org/)
-
-Super stoked to attend *upcoming events*:
 - [Seattle Gnu/Linux Conference](https://seagl.org/)
 - [GDI Hackathon](https://girldevelopit.com/virtual-hackathon/)
+
+Super stoked to attend *upcoming events*:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
