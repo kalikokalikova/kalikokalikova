@@ -9,11 +9,8 @@ I'm a full stack developer, currently working on a MySQL/Ruby on Rails/React sta
 Likes: ☕ coffee, 🐦 bird-watching, science podcasts, and living in a humid but temperate zone. 💦<br>
 Education: Self-taught hacker with degrees in Linguistics and Law.<br>
 Favorite programming language: 🐍 python<br>
-Currently learning: React Native<br>
+Currently learning: NodeJS<br>
 Not confident about: 🚲 Riding a bicycle.<br>
-
-Learning:<br>
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 Experienced in:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,12 +27,11 @@ Experienced in:<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Had a blast at the *recently attended*:
+Had a blast at the recently attended:
 - [DemocracyLab Hackathon](https://www.democracylab.org/)
 - [Seattle Gnu/Linux Conference](https://seagl.org/)
 - [GDI Hackathon](https://girldevelopit.com/virtual-hackathon/)
-
-Super stoked to attend *upcoming events*:
+- [Rails Hackathon](https://railshackathon.com/) See our project [here](https://github.com/LovlsGenesis/table_mapper)!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
