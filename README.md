@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/c5zJ8LX6fTq3C/giphy.gif" style="width:400px"></img>
  </p>
 
-I'm a full stack developer, currently working on a MySQL/Ruby on Rails/React stack.<br>
+I'm a full stack developer, currently working on a Python/Django/SQL stack.<br>
 Likes: ☕ coffee, 🐦 bird-watching, science podcasts, and living in a humid but temperate zone. 💦<br>
 Education: Self-taught hacker with degrees in Linguistics and Law.<br>
 Favorite programming language: 🐍 python<br>
