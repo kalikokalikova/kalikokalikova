@@ -33,7 +33,8 @@ Had a blast at the recently attended:
 - [GDI Hackathon](https://girldevelopit.com/virtual-hackathon/)
 - [Rails Hackathon](https://railshackathon.com/) See our project [here](https://github.com/LovlsGenesis/table_mapper)!
 - [WomenWhoCode Hackathon for Good](https://hopin.com/events/wwcode-hackathon-for-social-good/registration) Our project was in the Top 10! Check it out [here](https://github.com/Idealyinfamous/super-brain-project)
-- [GDI (Girl Develop It) Virtual Hackathon](https://girldevelopit.com/events/details/girl-develop-it-virtual-hackathon-presents-2023-virtual-hackathon/) as a mentor, received Hackathon Hero award :) <img src="https://files.slack.com/files-tmb/T011HAXK0KB-F0656VD49LN-5495ef1f97/16_480.png"></img>
+- [GDI (Girl Develop It) Virtual Hackathon](https://girldevelopit.com/events/details/girl-develop-it-virtual-hackathon-presents-2023-virtual-hackathon/) as a mentor, received Hackathon Hero award :)
+<img src="16.png" width="200" height="200"/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
